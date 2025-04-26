@@ -80,7 +80,7 @@ export default function Day3() {
               width="100%" 
               height="450" 
               style={{border:0}} 
-              allowFullScreen="" 
+              allowFullScreen={true}  
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade">
             </iframe>
